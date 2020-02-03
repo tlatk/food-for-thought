@@ -1357,6 +1357,8 @@ input, select, textarea {
 
 						.row.gtr-50.gtr-uniform > * {
 							padding-top: 1.25em;
+							padding-left: 2.25em;
+							padding-right: 1.25em;
 						}
 
 				.row {
